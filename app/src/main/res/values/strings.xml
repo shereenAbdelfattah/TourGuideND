@@ -1,0 +1,247 @@
+<resources>
+    <string name="app_name">Egypt Guide</string>
+
+    <string name="details_name">detailsName</string>
+    <!--tabs Names-->
+    <string name="home">Home</string>
+    <string name="Tourist">Tourist</string>
+    <string name="parks">Parks</string>
+    <string name="resturants">Resturants</string>
+
+    <string name="Mashemellow_cafee"><![CDATA[Marshmallo cafe & restaurant is looking for joy and happiness of our customers, We believe on the quality and perfection of our products, The value adding for our customers is our priority.]]></string>
+
+    <!--Details Activity strings-->
+    <string name="addressPrefix">Address :</string>
+    <string name="no_available_site">No AVAILABLE Web Site For </string>
+    <string name="noAvailablePhone">NO AVAILABLE Telephone for </string>
+    <string name="overview">overView:</string>
+    <string name="what_you_will_expect">what you will expect :</string>
+
+
+    <string name="home_overview">Egypt is one of the oldest civilization spots.Ancient Egyptians, Early Greeks, Romans and Arabs, Simply the Land of Mankind History...</string>
+    <string name="about_egypt">Egypt has always been known throughout its history as a destination for tourists and travelers since Herodotus visit in ancient history, as he was astonished ...</string>
+
+    <!--tourist Fragment Strings-->
+    <string name="tourist_place1_name">Valley of Kings and Hatshepsut</string>
+    <string name="tourist_place2_name">Karnak Temple</string>
+    <string name="tourist_place3_name">Dendara and Abydos</string>
+    <string name="tourist_place4_name">Deir el Madina From luxour</string>
+    <string name="tourist_place5_name">The Museum of Islamic Art</string>
+    <string name="tourist_place6_name">Giza Pyramids and Sphinx</string>
+    <string name="tourist_place7_name">abu simbel Temples from Aswan</string>
+
+    <string name="tourist_description1">Temple of Queen Hatshepsut</string>
+    <string name="tourist_description2">Visit the age-old Temples of Karnak and Luxor</string>
+    <string name="tourist_description3">Egyptians made a sacred pilgrimage in historic times.</string>
+    <string name="tourist_description4">visit the incredible Valley of the Artisans</string>
+    <string name="tourist_description5">Islamic Museum of Arts and Madrasa of Sultan Hassan</string>
+    <string name="tourist_description6">pyramids as tombs for the pharaohs</string>
+    <string name="tourist_description7">Built during the reign of the great Pharaoh Ramses II</string>
+
+    <!--address-->
+    <string name="tourist_address1">Kings Valley Rd | Deir el-Bahari, Luxor 23512, Egypt</string>
+    <string name="tourist_address2">Karnak, Luxor 85111, Egypt</string>
+    <string name="tourist_address3">Dendera Temple Complex Abydos</string>
+    <string name="tourist_address4">Valley of the Artisans (Deir el-Medina) Valley of the Nobles</string>
+    <string name="tourist_address5">Shar\'a Bur Bab El Khalk Square, Cairo 11511, Egypt</string>
+    <string name="tourist_address6">Al Haram Str., Giza 12611, Egypt</string>
+    <string name="tourist_address7">Aswan Governorate, Egypt</string>
+
+    <!--web sites-->
+    <string name="tourist_web_site5">https://www.miaegypt.org</string>
+
+    <!--the overView and expectations for TouristFragment-->
+    <string name="dendara_overView">This private tour combines the best of Dendara and Abydos and showcases another side of Egypt. Explore the Temple of Hathor and venture into the home of “the Cult of Osiris” to see the site where ancient Egyptians made a sacred pilgrimage in historic times</string>
+    <string name="dendara_expect">This private tour of Dendara and Abydos offers travelers a taste of both cities.
+        Start things off at the Temple of Hathor, where two Roman fountains flank the entry gate to this incredible structure built as an homage to the goddess of love and pleasure. Learn from your guide how the mud-brick walls date back to the Roman era and explore the two birth houses, Coptic Basilica, sanitarium and sacred lake on the grounds.
+        Your guide will point out the additions made to the temple during the Greek, Ptolemy and Roman periods. </string>
+
+    <string name="hatshebsut_overView">A mortuary temple dedicated to the longest ruling female of Ancient Egypt, Queen Hatshepsut. The temple is decorated with statues, sphinxes, and reliefs, which have been meticulously restored over time.</string>
+    <string name="hatshebsut_excepect">Drive into the Valley of the Kings, a necropolis for the ancient city of Thebes, a 45-minute drive through fields and mountains. You’ll see the rustic house where Howard Carter lived as he searched for Tutankhamun’s tomb, then visit a series of three elaborate tombs. Guides are not allowed inside the tombs, but you’ll get a briefing on the history of each one before you enter; if you’d like to add a visit to King Tutankhamun’s tomb, your guide can arrange the stop at an additional fee. </string>
+
+
+    <string name="karnak_overView">Check off the wonders of ancient Luxor, a UNESCO World Heritage site, in just one day on this door-to-door tour with personal guide. Explore the Valley of the Kings, the Temple of Hatshepsut at Deir el Bahari, the Colossi of Memnon, and the Temple of Karnak, then enjoy a felucca sailboat ride</string>
+    <string name="karnk_expect">The final resting place of Egypt’s rulers from the 18th to the 20th dynasty, it is home to tombs including the great Pharaoh Ramses II and boy Pharaoh Tutankhamen. The tombs were well stocked with all the material goods a ruler might need in the next world. Most of the decoration inside the tombs still well preserved.
+If you wish to Visit the Tomb of The young Pharaoh Tutankhamon</string>
+
+
+    <string name="abu_simbel_overView">Visit the well-preserved temple complexes of Karnak and Luxor. Karnak is the largest temple complex in Egypt, dedicated to the God Amon, his wife, Mut, and their son Khonso</string>
+    <string name="abu_simbel_expect">move to Luxor Temple. It was built by Amunhotep III in 18th Dynasty in the New Kingdom and it was completed by Ramesses II during the 19th Dynasty. King Ramses II was the most famous king in the 19th Dynasty. He ruled Egypt for about 67 years. It was dedicated to the great god Amun-Ra, his wife Mut and their son Khonsu together representing the Theban triad. Enjoy visiting Obelisk of Ramses II in front of the 1st Pylon.
+</string>
+
+
+    <string name="deir_elmadina_overView">Peek into the lives of ordinary ancient Egyptians on this private 4-hour Valley of the Nobles and Valley of the Artisans tour from Luxor. With a private qualified Egyptologist guide, discover the painted tombs of two 18th-dynasty aristocrats — Menna and Nakht — at the Valley of the Nobles. Then, visit the incredible Valley of the Artisans, known as Deir el-Medina.</string>
+    <string name="der_elmadina_expect">In the morning your friendly guide and driver will pick you up from your hotel in Luxor by an air-conditioned vehicle to first enjoy a fully guided tour to the Valley of the Nobles. Although very small in size, these tombs include some of the most beautiful paintings of the Theban tombs. The preservation of colour remains astounding. Here, you will visit the two most beautiful tombs: The Tomb of Nakht and the Tomb of Menna. Second, you will visit the Valley of the Workers (Deir el-Medina). This is the place where the workmen of the royal tombs used to live. Here you will see the Temple of Deir el-Medina, which was dedicated to the goddess Hathor. This is the only temple in all of Egypt where you can admire carvings of the Final Judgement.</string>
+
+    <string name="pyramids_overView">Perhaps the most recognizable among the Seven Wonders of the World, the exact origin of these majestic pyramids continues to spark debate.</string>
+    <string name="pyramids_expext">Ancient Lower Egypt’s great rulers marked their territory with timeless monuments, larger-than-life relics of their once-mighty reign. In this in-depth, full-day guided visit to the Giza pyramid complex, get a firsthand glimpse of one of the world’s most powerful kingdoms</string>
+
+    <string name="islamic_museum_overView">This museum offers an extraordinary selection of well curated beautifully presented islamic art: paintings, porcelain, ceramics, glasswork, carved wood, metal work and more</string>
+    <string name="islamic_museum_expect">The museum is beautiful in itself. The pieces are very well presented. you will find it to be interesting, beautiful, and well done. There were many art students working art pieces of their own, sitting in the corners — for school not sale</string>
+    <!--end of tourist Strings-->
+
+    <!-- restaurants fragment-->
+    <string name="restaurant1_name">Bab Al Qasr Resturant</string>
+    <string name="restaurant2_name"><![CDATA[Marshmallo Cafe & Restaurant]]></string>
+    <string name="restaurant3_name">Makai Tukai Restaurant</string>
+    <string name="restaurant4_name">Moby Dick </string>
+    <string name="restaurant5_name">Fusion 21 Restaurant</string>
+    <string name="restaurant6_name">El Kababgy Restaurant</string>
+    <string name="restaurant7_name">The Smokery Restaurant</string>
+    <string name="restaurant1_description">Lebanese Middle Eastern Egyptian</string>
+    <string name="restaurant2_description"><![CDATA[Seafood, Fast Food & International]]></string>
+    <string name="restaurant3_description">Sushi, Asian, Thai, Chinese</string>
+    <string name="restaurant4_description">International European Egyptian</string>
+    <string name="restaurant5_description">Mediterranean, Vegetarian Friendly, Vegan Options, Halal</string>
+    <string name="restaurant6_description">Local cuisine, Grill, Egyptian, Barbecue, Middle Eastern</string>
+    <string name="restaurant7_description">International, Sushi, French</string>
+    <string name="restaurant1_address">Royal Maxim Palace Kempinski Hotel | First Settlement, New Cairo, Cairo 11511, Egypt</string>
+    <string name="restaurant2_address">South El-Teseen Street Concord Plaza, Cairo 11511 Egypt</string>
+    <string name="restaurant3_address">South Sahl Hashish Road, Magawish District Jaz Aquamarine Resort, Hurghada 84511 Egypt</string>
+    <string name="restaurant4_address">Sheraton Road | Sheraton street, opposite the hotel Regina Royal Resort, to the right after exit., Hurghada 84511, Egypt</string>
+    <string name="restaurant5_address">Soho Square | Sharks Bay, Sharm El Sheikh 12444, Egypt</string>
+    <string name="restaurant6_address">Mövenpick Resort, Naama Bay, Sharm El Sheikh 46619 Egypt</string>
+    <string name="restaurant7_address">Katameya Heights | New Cairo - 5th District, Cairo 11511, Egypt</string>
+    <string name="restaurant1_webSite">https://www.kempinski.com/en/cairo/royal-maxim-palace-kempinski-cairo/dining/restaurants/bab-al-qasr/?</string>
+    <string name="restaurant2_webSite">https://marshmallocafe.com</string>
+    <string name="restaurant3_webSite">https://www.jazhotels.com/hurghada/hotels/jaz-aquamarine.aspx</string>
+    <string name="restaurant4_webSite">http://www.mobydick-egypt.com</string>
+    <string name="restaurant5_webSite">http://sharm-city.com/soho-fusion/</string>
+    <string name="restaurant6_webSite">https://www.movenpick.com/en/africa/egypt/sharm-el-sheikh/resort-sharm-el-sheikh/restaurants/restaurants/el-kababgy/?</string>
+    <string name="restaurant7_webSite">http://www.thesmokery.net/katameya/?</string>
+    <string name="restaurant1_phone">+20 109 711 1151</string>
+    <string name="restaurant2_phone">+20 101 187 1192</string>
+    <string name="restaurant3_phone">+20 65 3461100</string>
+    <string name="restaurant4_phone">+20 65 3440050</string>
+    <string name="restaurant5_phone">+20 100 010 9109</string>
+    <string name="restaurant6_phone">+20 69 3600081</string>
+    <string name="restaurant7_phone">+20 102 601 9175</string>
+
+    <string name="restaurant1_overView">Takeout, Reservations, Seating, Waitstaff, "\n"Parking Available,"\n" Validated Parking, Highchairs Available,"\n" Wheelchair Accessible,"\n" Accepts Mastercard, Accepts Visa,"\n" Free Wifi, Table Service, Valet Parking</string>
+    <string name="restaurant1_expect">The finest of oriental cuisines in Cairo infused with Egyptian and Levant flavours and a subtle combination of spices."\n" Bab Al Qasr sets the stage for an authentic dinner in ambient surroundings."\n"
+        With a setting that reflects Arabian hospitality, Bab Al Qasr invites your family and friends to gather around the table and sample a variety of your favourites of all time from the Middle Eastern cuisine in addition to a wide selection of shisha flavours.</string>
+    <string name="restaurant2_overView">Seafood, Fast Food, International, Diner, Healthy"\n"MEALS Breakfast, Lunch, Dinner, Brunch, Late Night</string>
+    <string name="restaurant2_expect">There aren\'t enough food, service, "\n"value or atmosphere ratings for Marshmallo Cafe Restaurant, Egypt yet. Be one of the first to write a review</string>
+    <string name="restaurant3_overView">Sushi, Asian, Thai, Chinese "\n"Vegetarian Friendly,"\n" Vegan Options,"\n" Gluten Free Options</string>
+    <string name="restaurant3_expect">This restaurant offers different specialty buffets, showcasing Mediterranean, Asian, Oriental and Italian cuisines"\n"Asian fusion cuisine, including a sushi bar and teppanyaki table enjoy.</string>
+    <string name="restaurant4_overView">International, European, Egyptian,"\n" Vegetarian Friendly,"\n" Vegan Options"\n"</string>
+    <string name="restaurant4_expect">Fantastic restaurant Camel and Tuna SteakAmazing food, drink service :-)</string>
+    <string name="restaurant5_overView">Fusion 21 offers a variety of Mediterranean dishes, with a well-chosen selection of tastes from different countries."\n" You can enjoy a real mix of north African and European flavors prepared in front of your eyes in open kitchen.</string>
+    <string name="restaurant5_expect"> enjoy your delicious dishes along with the warm and friendly atmosphere at Fusion 21 - Soho Square"\n"our dedicated employees will provide you an excellent attentive service during your visit that exceeded your expectations."\n"We aim to continue in this way to ensure all our valued guests are completely satisfied.</string>
+    <string name="restaurant6_overView">Reservations, Outdoor Seating, Seating, Waitstaff, Free Off-Street Parking, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Wine and Beer, Free Wifi, Accepts Credit Cards, Table Service, Parking Available</string>
+    <string name="restaurant6_expect">Kababgy fuses five-star Swiss service with Egyptian traditions of hospitality. Enjoy smart-casual dining in exquisite surroundings whether you choose to be seated indoors in the laid-back ambiance of Arabic interiors or outdoors with a breathtaking view of Naama Bay."\n"Indulge in rich flavors of charcoal-grilled meats marinated according to time-honored recipes and variety of local delicacies!</string>
+    <string name="restaurant7_overView">It has been the preferred venue for family lunches on weekends as well as many corporate lunches. High in demand for Birthdays, Engagements and Cocktail parties. "\n"Capacity: Up to 200 people</string>
+    <string name="restaurant7_expect">The Smokery is a chain of upscale restaurants located in some of the most stunning and prestigious locations all across Egypt, with the first one being in Katameya Heights, Cairo followed by El Gouna, Hurghada and Marassi in the North Coast. The Smokery provides high quality fine dining in charming and exclusive settings providing a diverse menu and producing some of the finest smoked salmon in the World. Repeatedly excelling in hosting a variety of events such as weddings, engagements, New Year\'s Eve parties, Opening Ceremonies, and much more, The Smokery\'s unique venues have been categorized among the country s most popular destinations for events, promising exceptional cuisine and service.</string>
+
+
+    <string name="restaurant8_expect"> ""</string>
+
+    <!--end of restaurant Strings-->
+
+    <!--parks -->
+    <string name="park1_name">Jungle Aqua Park</string>
+    <string name="park2_name">Cleo Park Sharm Elsheikh</string>
+    <string name="park3_name">Sindbad Aqua Park</string>
+    <string name="park4_name">Hurghada Grand Aquarium</string>
+    <string name="park5_name">Dream Park</string>
+    <string name="park6_name">El Gouna Cable Park Sliders</string>
+    <string name="park7_name">Al-Azhar Park</string>
+    <string name="park1_description">Amusement Parks, Water Parks</string>
+    <string name="park2_description"><![CDATA[Water & Amusement Parks, Water Parks]]></string>
+    <string name="park3_description"><![CDATA[Water & Amusement Parks]]></string>
+    <string name="park4_description">Discover the ‘Red Sea in Glass</string>
+    <string name="park5_description"><![CDATA[Water & Amusement Parks, Theme Parks]]></string>
+    <string name="park6_description">90 000 square meters, includes two spacious cables.</string>
+    <string name="park7_description">Perfect venues for private functions</string>
+    <string name="park1_address">Behind Hilton Sharm Dreams Resort | Naama Bay, Sharm El Sheikh 002, Egypt</string>
+    <string name="park2_address">Soho Square | Sharks Bay, Sharm El Sheikh 12444, Egypt</string>
+    <string name="park3_address">Sindbad Club, Hurghada, Egypt</string>
+    <string name="park4_address">Hurghada Grand Aquarium , egypt</string>
+    <string name="park5_address">6th Of October, Giza, Egypt</string>
+    <string name="park6_address">Sabina Area, El Gouna, Hurghada 84512, Egypt</string>
+    <string name="park7_address">Darassa Hill | Al Darassa Hill, Cairo 11511, Egypt</string>
+    <string name="park1_webSite">http://www.jungleaquapark.co.uk</string>
+    <string name="park2_webSite">http://www.cleopark.net</string>
+    <string name="park3_webSite">http://www.sindbad-club.com/aqua-park</string>
+    <string name="park4_webSite">https://hurghadaaquarium.com</string>
+    <string name="park5_webSite">https://www.facebook.com/DreamparkEg/</string>
+    <string name="park6_webSite">http://www.sliderscablepark.com</string>
+    <string name="park7_webSite">http://www.azharpark.com</string>
+    <string name="park1_phone">+20 65 3464670</string>
+    <string name="park2_phone">0020100777697</string>
+    <string name="park3_phone">+20 6594496017</string>
+    <string name="park4_phone">0111618111</string>
+    <string name="park6_phone">+20 102 602 2226</string>
+
+    <string name="park1_overview">Water Amusement Parks, Water Parks</string>
+    <string name="prak1_expect">ungle Aqua Park is an amazing resort of endless choices situated in Hurghada on the Red Sea Coast of Egypt"\n"
+        . Being an Aqua Park Hotel, it is popular for its 35 water slides, 33 outdoor swimming pools, "\n"
+        along with a fantastic range of sports and social activities for people of all ages."\n"
+        Guests are accommodated in spacious bungalow style rooms which are situated nicely around the hotels wonderful gardens and pools. "\n"
+        The beach is available at the sister property, Dana Beach, where you have a private area to get all your food "\n"
+        beverages from.</string>
+    <string name="park2_overview">Wonderful water park including several prestigious activities and water games. "\n"
+        This park attracts adults as well as children of all ages."\n"
+        One can spend the whole day without getting tired.</string>
+    <string name="prak2_expect">Hours of fantasy  adventure are waiting for you at ,"\n"
+        the first themed water park to ever open in the beautiful city of Sharm El Sheikh."\n"
+        Located at Naama bay,Cleo Park with its new generation rides is designed with a pharaonic theme and offers you to join in the excitement we’re ready to provide.Cleo Parkis the perfect place for thrill seekers and water enthusiasts."\n"
+        Water temperature is ensured to be warm all year around.Opening Hours : Everyday from 10 am till Sunset</string>
+    <string name="park3_overview">Sindbad Aqua Park is the next generation water amusement park featuring the most modern in water slides and pools whilst offering inviting tropical surroundings</string>
+    <string name="prak3_expect">The All Inclusive system assures relaxing days for all without unpleasant and unplanned expenses. A wide variety of snacks, drinks and foods are
+available all day for everyones enjoyment."\n"Sindbad Aqua Park is smaller than most attraction parks and better for it. The aim is to personalize the experience and avoid big masses of people and long waiting times at the attractions and other facilities.
+Last but not least, "\n"our installations and staff provide a healthy and safe environment by adhering to the standards of internationally acclaimed companies like TUV, CRYSTAL and WHITEWATER.
+
+</string>
+    <string name="park4_overview">Hurghada Grand Aquarium is dedicated to inspiring guests of all ages to appreciate the marine environment while promoting conservation action and developing an understanding for the irreplaceable value of all life in our world’s ocean. By teaching children and adults the importance of conservation, ecology and stewardship,
+        we believe they will apply this knowledge to make sustainable choices and take an active part in preserving our marine environment</string>
+    <string name="prak4_expect">Hurghada Grand Aquarium is the city\'s first marine theme park and a premiere educational facility. An integrated urban with marine life and zoo attractions."\n"
+        The aquarium is geared towards an all-year, all-weather destination for locals and tourists."\n"
+        Open everyday from 9:00 am until 6:00 pm and an ultimate place for all ages. "\n"
+        It houses more than 100 animals, representing 1,200 species, all of which reside in 1 million US gallons (3,500 m3) of marine and fresh water,
+        and one of the largest aquariums when it opened earlier in 2015. The Aquarium\'s notable specimens include: nurse shark, stingrays,
+        green sea turtle, shovel nose guitar shark, eagle rays and more "\n"
+        At the heart of a 24-meter journey inside the curved walkway tunnel with a spectacular underwater view of amazing sea creatures swimming overhead.</string>
+
+    <string name="park5_overview">Hours: "\n"
+    Fri 10:00 AM - 9:00 PM"\n"
+    Sat - Thu 10:00 AM - 7:00 PM</string>
+    <string name="prak5_expect">Water Amusement Parks,"\n" Theme Parks fun amusement rides, you will spend a good day if you are alone ro with your family there are alot of games and </string>
+    <string name="park6_overview">The entire area consists of 90 000 square meters and includes two spacious cables.
+        "\n" The first 5.0 System, is equipped with a slalom course and a selection of large Rixen obstacles.
+        "\n"The shorter 5.0 Clockwise system is an exclusive wake cable with many different sliders and kickers."\n"
+        There are also two 2.0 System so called "Easy Rides" for beginners to achieve their first successes. "\n"
+        In order to ride also in the evening the entire park is equipped with a professional floodlight system. Due to the nearly perfect geographical location of El Gouna, we offer our guests a year-round program with various national and international competitions at the highest level.
+        "\n"On Top of that we have excellent Restaurant, Swimming Pools and Kids Area. "\n"Hope to see you here.</string>
+    <string name="prak6_expect">Indulge your need for speed with a 7-hour cable wakeboarding experience in Hurghada."\n"
+        Travel to a cable water park and ride a wakeboard pulled by motorized cableways rather than motorboats."\n"
+        Choose a beginner or advanced session depending on your abilities, and spend three hours speeding across the water.
+        "\n"Lunch, all equipment and hotel pickup and drop-off in Hurghada, Al Makadi, Sahl Hasheesh and El Gouna included.</string>
+    <string name="park7_overview">This park, built on top of an old landfill mound, is one of the most beautiful and inspiring places you will find in Cairo</string>
+    <string name="prak7_expect"> Enjoy exotic settings, reminiscent of ancient times gone by a variety of unique cafes and restaurants, that offer 5 star services, were built and thoughtfully positioned for visitors to appreciate the most dramatic views of Cairo.
+        "\n"Perfect venues for private functions, you can create your own history.</string>
+
+    <!--content description for images-->
+    <string name="open_map_for_location">open map for location</string>
+    <string name="call_me">call me</string>
+    <string name="open_web_site">open web site</string>
+    <string name="place_image">image of place</string>
+
+    <!--home fragment-->
+    <string name="about_egypt_txt">About Egypt :</string>
+    <string name="special_events">Special Events :</string>
+    <string name="about">About Egypt :</string>
+    <string name="my_favourites_label">MyFavourites</string>
+    <string name="event1_name">Ramadan</string>
+    <string name="event1_description">The most important month in the whole year for Muslims all across the world, the month of Ramadan in Egypt gives some of the most beautiful and unique spectacles that you won’t find anywhere else in the world.Bazaars and markets come alive with fairy lighting and loads of people breaking their fast and celebrating their culture with their family and friends.</string>
+    <string name="event2_name">Shem al Nessim</string>
+    <string name="event3_name">Sphinx Festival</string>
+    <string name="event4_name">Sun Festival at Abu Simbel</string>
+    <string name="event2_description">People of Egypt celebrate this festival to welcome the season of Spring in the country. Generally, it is celebrated during the month of April, on a Monday that comes after Coptic Easter.</string>
+    <string name="event3_description">The five day extravagant festival known as the Sphinx festival happens in the Red Sea resort town of El Gouna. This festival features various engaging activities related to the ancient Egyptian heritage and aims to educate people about ancient Egypt and inspires artists and travelers.</string>
+    <string name="event4_description">As the name suggests, this festival of Egypt is dedicated to Abu simbel, an old temple of the country. Held on the 22nd of February each year, it is celebrated with fervor and enthusiasm</string>
+    <string name="startimage">startImage</string>
+    <string name="favourite_string">O Egypt, your love in the heart is great, and it has a good, beautiful aroma, and it is the smell of its flower, like our crown, in which we extend its fragrance. The enchanted is that heavenly mountain, like our glory, despite the whirlwinds, the sun is shining and our green sun is out of its lights. She addressed her visitors with a screen and a welcoming, friendly and pleased</string>
+
+
+</resources>
